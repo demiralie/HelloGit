@@ -8,5 +8,6 @@ for (i <- 0 until 10 ) {
 		println("#########");
 		println("TEST END");
 		println("UBUNTU");
+		println("CMD");
 	}
 }
