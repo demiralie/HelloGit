@@ -6,5 +6,6 @@ for (i <- 0 until 10 ) {
 		println("#########");
 		println("i = " + i );
 		println("#########");
+		println("TEST END");
 	}
 }
